@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /opt/xenservmon
+python2.7 xenservmon.py $1

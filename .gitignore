@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.project
+.pydevproject
+.directory
